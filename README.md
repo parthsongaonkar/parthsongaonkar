@@ -1,7 +1,7 @@
 <h1>Hi, I'm Parth! <br/><!--<a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>-->
 
 <h2>👨‍💻 Projects:</h2>
-- <b>Power Bi dashboards</b><br>
+<h3>Power Bi dashboards</h3><br>
   - [Customer shopping behaviour](https://github.com/parthsongaonkar/customer-shopping-behaviour.git)
   
 <!--- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
