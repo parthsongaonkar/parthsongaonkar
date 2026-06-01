@@ -3,6 +3,19 @@
 <h2>👨‍💻 Projects:</h2>
 <h3>Power Bi dashboards</h3>
   - Customer shopping behaviour (https://github.com/parthsongaonkar/customer-shopping-behaviour.git)
+
+### Data Integration and Governance
+A professional data management portfolio covering end-to-end 
+ETL pipeline development using MySQL and Pentaho, and a 
+critical evaluation of enterprise data governance practices.
+
+**Key Skills:** MySQL · Pentaho PDI · Data Warehousing · 
+ETL Pipelines · Data Governance · Maturity Assessment · 
+Ethics & Privacy · Regulatory Compliance
+
+🔗 [View Project](https://github.com/parthsongaonkar/data-integration-and-governance)
+
+---
   
 <!--- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
