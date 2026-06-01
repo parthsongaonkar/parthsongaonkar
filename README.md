@@ -1,10 +1,8 @@
 <h1>Hi, I'm Parth! <br/><!--<a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>-->
 
-<h2>👨‍💻 Projects:</h2>
-<h3>Power Bi dashboards</h3>
-  - Customer shopping behaviour (https://github.com/parthsongaonkar/customer-shopping-behaviour.git)
+## 📂 Projects
 
-### Data Integration and Governance
+### 🗄️ Data Integration and Governance
 A professional data management portfolio covering end-to-end 
 ETL pipeline development using MySQL and Pentaho, and a 
 critical evaluation of enterprise data governance practices.
@@ -14,6 +12,19 @@ ETL Pipelines · Data Governance · Maturity Assessment ·
 Ethics & Privacy · Regulatory Compliance
 
 🔗 [View Project](https://github.com/parthsongaonkar/data-integration-and-governance)
+
+---
+
+### 📊 Power BI Dashboards
+
+#### Customer Shopping Behaviour
+An interactive Power BI dashboard analysing customer 
+shopping patterns, trends and behaviour insights.
+
+**Key Skills:** Power BI · Data Visualisation · 
+Customer Analytics · Dashboard Design
+
+🔗 [View Project](https://github.com/parthsongaonkar/customer-shopping-behaviour)
 
 ---
   
